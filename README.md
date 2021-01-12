@@ -7,7 +7,7 @@ Perform the below action to setup this project.
 - php artisan clear:all
 - php artisan migrate
 - php artisan storage:link
-- Create "products" directory in public/storage folder.
+- Create "logo" directory in public/storage folder.
 - Access project from browser. http://localhost/moon/login for front and http://localhost/moon/admin/login for backend
 - Admin Credentials:
   U: admin@admin.com
